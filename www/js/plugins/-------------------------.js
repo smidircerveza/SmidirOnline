@@ -1,0 +1,2 @@
+﻿/*:
+ * @plugindesc Separador
